@@ -1,4 +1,4 @@
-Можно посмотреть как работает по ссылке https://parser-for-h.netlify.com
+Можно посмотреть как работает по ссылке https://parser-for-h.netlify.com (нужен VPN)
 Сами данные выводятся в console.
 
 Script находится в App.js
